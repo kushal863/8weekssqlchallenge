@@ -18,15 +18,30 @@ Checkout here for more information : https://8weeksqlchallenge.com/case-study-1/
 
 ## 3. Case Study Questions
 
-### 1 What is the total amount each customer spent at the restaurant?
-### 2 How many days has each customer visited the restaurant?
-### 3 What was the first item from the menu purchased by each customer?
-### 4 What is the most purchased item on the menu and how many times was it purchased by all customers?
-### 5 Which item was purchased first by the customer after they became a member?
-### 6 Which item was purchased just before the customer became a member?
-### 7 What is the total items and amount spent for each member before they became a member?
-### 8 If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
-### 9 In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
+### 1. What is the total amount each customer spent at the restaurant?
+### 2. How many days has each customer visited the restaurant?
+### 3. What was the first item from the menu purchased by each customer?
+### 4. What is the most purchased item on the menu and how many times was it purchased by all customers?
+### 5. Which item was purchased first by the customer after they became a member?
+### 6. Which item was purchased just before the customer became a member?
+### 7. What is the total items and amount spent for each member before they became a member?
+### 8. If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
+### 9. In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
+
+## 4. BONUS QUESTIONS
+
+### 1. Join All The Things
+###  Create basic data tables that Danny and his team can use to quickly derive insights without needing to join the underlying tables using SQL.
+
+![image](https://user-images.githubusercontent.com/72497669/231989125-2f259c94-5e06-46c7-b885-903c50e4056f.png)
+
+
+### 2. rank all the things
+
+#### Danny also requires further information about the ranking of customer products, but he purposely does not need the ranking for non-member purchases so he expects null ranking values for the records when customers are not yet part of the loyalty program.
+
+![image](https://user-images.githubusercontent.com/72497669/232039630-b65c08e8-777e-4d34-a842-099a4aa51dc0.png)
+
 
 
 ## 4 Solutions to the case study questions:
@@ -60,6 +75,18 @@ Checkout here for more information : https://8weeksqlchallenge.com/case-study-1/
 
 ### Solution :9
 ![Question-9](https://user-images.githubusercontent.com/72497669/231955856-77db0ee6-ffda-40c9-9c15-ce0efeefe803.png)
+
+
+### Solution Bonus Questions : 1
+
+![Question-10](https://user-images.githubusercontent.com/72497669/232039988-c3c53a19-5f18-4922-b287-6b4641ae3c01.png)
+
+
+### Solution Bonus Question : 2
+
+![Question_11](https://user-images.githubusercontent.com/72497669/232040014-1cfd2642-6663-45cf-87f4-b4eac26c5681.png)
+
+
 
 
 
