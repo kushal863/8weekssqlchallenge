@@ -9,12 +9,22 @@ Danny wants to use the data to answer a few simple questions about his customers
 
 He plans on using these insights to help him decide whether he should expand the existing customer loyalty program - additionally he needs help to generate some basic datasets so his team can easily inspect the data without needing to use SQL.
 
-You can checkout here for more information : https://8weeksqlchallenge.com/case-study-1/
+Checkout here for more information : https://8weeksqlchallenge.com/case-study-1/
 
 
 ## ENTITY RELATIONSHIP DIAGRAM
 
 ![image](https://user-images.githubusercontent.com/72497669/231954147-8da8bdb8-e8cf-4b63-8dd5-636268d08817.png)
 
-
+## Case Study Questions
+What is the total amount each customer spent at the restaurant?
+How many days has each customer visited the restaurant?
+What was the first item from the menu purchased by each customer?
+What is the most purchased item on the menu and how many times was it purchased by all customers?
+Which item was the most popular for each customer?
+Which item was purchased first by the customer after they became a member?
+Which item was purchased just before the customer became a member?
+What is the total items and amount spent for each member before they became a member?
+If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
+In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
 
