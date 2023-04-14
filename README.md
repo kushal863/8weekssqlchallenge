@@ -13,6 +13,8 @@ You can checkout here for more information : https://8weeksqlchallenge.com/case-
 
 
 ## ENTITY RELATIONSHIP DIAGRAM
-![image](https://user-images.githubusercontent.com/72497669/231953224-63991559-4d2b-455d-b9b3-82cf18948e47.png)
+
+![image](https://user-images.githubusercontent.com/72497669/231954147-8da8bdb8-e8cf-4b63-8dd5-636268d08817.png)
+
 
 
